@@ -1,0 +1,5 @@
+:root{
+    --backgroundColor: hsl(185, 75%, 39%);
+    --textColor: hsl(227, 10%, 46%);
+    --cardColor: hsl(0, 0%, 59%);
+}
